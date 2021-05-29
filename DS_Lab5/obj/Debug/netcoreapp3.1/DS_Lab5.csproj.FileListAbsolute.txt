@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.exe
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.deps.json
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.runtimeconfig.json
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.dll
+C:\Users\LEGION\source\repos\DS_Lab5\bin\Debug\netcoreapp3.1\DS_Lab5.pdb
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.dll
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.pdb
+C:\Users\LEGION\source\repos\DS_Lab5\obj\Debug\netcoreapp3.1\DS_Lab5.genruntimeconfig.cache
